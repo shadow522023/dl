@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gifted-bongo-387415",
+  "private_key_id": "53a6fdc1be8d9949194a57a5c28d64cffa94d8a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCquPznVAa/1bop\nkwFRFwSA42V1KgUdPcRNCRkegqoaSc4Z/Kas+RB+rVbYuyFt6ew6k3ofOumwFCUl\nlpFzboWqsGh8frxM+lrYO8vPOLpAGSHRGTn7YzgAsn7rilW7QSXQziRM21ODZAL4\nDZui8wTtduUVSOOIRW3O1iT3vMwZCddianxZJbV44/T9zA5yTMRMxqCpQSzhextP\nAHlbBGjySGRn2ruThb1y08akhD9QvkXpRKS/oXWPS9EkbMX0LJ+plpRGKdKu29Hw\nIX1LP4B4YfGhhnBrBDYtRZfNDEsKTKJxpyowgpqO6pfABIHe+5iOGcE13Psl1KF8\nIUIFnUAlAgMBAAECggEAApW6nVo8/h960rjjxMwpPODQRH9KMYAIQ7wAA6XdMCwT\nIzaftLIOPPakfBFJq6vZp65kY4yP/Jple0FdPw1lZK1dqpFKNNErHlJkhWC99EBD\nkEwCCJ6nnN4oEUycr1NZpNgOt4vJuBoD3uSTlhqbGRPOY3HL9q0Wkjj3QeREKBrv\n21nzsbLxXZO+d2KdrPVQjRI60YM3to6GISc2EfbGhJ5lHk1H1DtGc4+sYdr85w7O\nxwoVC80LxXSX1uIgXXqNMH3dSONMWo9b59BhJILR4hjreYliOH/NdmdgmwvPecL2\n8JYoGt4HnrMJuG6uS8nFnFhFfDBJDq2h8bfKjcC9gQKBgQDX+AMlPgZpIcC7DW7g\nMJIKzoyQnIaoN2Z+1w2qsQHepzPBu4ntS35rtfhfk/1vzI4HnCoex4MJTjrLQxxE\n8w3eXeO/qSP3IGjUQ7sH6bnhjJiYWZZte6AevY1IAKcGi4OCY+oZo0UNklT151A5\nEFC/Gi72OLZIm8iroLqTOXxnpQKBgQDKXfzdQszhGNffiSNI5YwnoyZ2XdcXucul\ndyatzW7ljgNRqRY0K/VF3o2HnZYkTUW/EuGUc336F8V2jQHxGreVis5yKMA04jYS\nK09OcsLZCaKhq+tyisS/w+IsLleJbdRec+dgmZ+mlsrMjB6MPKTsrWo+3f5U3RId\nw4cem5oOgQKBgFp7/MVjwUfW7mrwa93eO7HvbBFCo2BjJbxK2d0EIGZq41JuApG7\nKZJzQUa6OFrY90DU+wi+SnZholx7F6MDunHKIJuyf/EQURtt7TSZhlmrkFt0XYQt\nYZ6/iCv8qf4iAc1lkzV+pHXVM2d7rK7b2RjYHYjnpeex7VeLFeCNG0RJAoGAUrEt\nTsypI6IfNDy5qmQCbYABi4S1DADj8m1J5ON5WVw6hvftFsyPoUlb0/rVC2h4A6gX\nfa3j4HouOk9MZ9VfB0B9M7DrObDmH26LLac/b6i8SAwUXe3Oj/3fQeZ95q52hVIf\nTh34Wv5rSEJJiUyOqBgEvkPAVbUwXfE0GZHD1gECgYBFw1TDgAzCPHiCgLPN0MJQ\n6P1bOv7HigP/sSldmkpRvQ+E8OiTbTy23mwNsXjKmXpeIgZ32TC5LKOcC6kvhIrV\n0vGFRcbeUYsKI9JT7w1s+ASOl77SmBD09sN3lzazV6ELz40waZvSf2o6g868In4W\nvISFc/NiWmcomoZtFTyojQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shadow@gifted-bongo-387415.iam.gserviceaccount.com",
+  "client_id": "111325151015461092275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shadow%40gifted-bongo-387415.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
